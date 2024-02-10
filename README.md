@@ -1,1 +1,2 @@
 # ProyectoFinal-TDS-24000191
+El programa solicita información al usuario, como nombre, edad, estado civil, etc., la valida y calcula los recargos del seguro en base a estos datos. Luego, presenta el precio final al usuario y ofrece la opción de hacer otra cotización o salir. Es importante considerar la validación de datos y la optimización del código. Mejoras posibles incluyen una interfaz más intuitiva, mejor manejo de errores, mayor personalización de cotizaciones y almacenamiento de datos para referencia futura.
